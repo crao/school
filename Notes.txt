@@ -1,0 +1,25 @@
+https://colorlib.com/wp/free-bootstrap-admin-dashboard-templates/
+
+https://github.com/almasaeed2010/AdminLTE
+
+This AdminLTE is rich with UI Interface.  UI Development is easier with this Dashboard.
+
+I find it useful as it has readymade UI
+
+1) Charts	-	Line Chart, Area Chart, Bar Chart, Donut Chart
+
+2) Widgets  -	Removeable, Collapsable, Loading State, Social Widgets
+
+3) Layout Options - Top Navigation, Boxed, Fixed, Collapsable Sidebar
+
+4) UI Elements - General, Icons, Buttons, Sliders, Modal
+
+5) Forms - General Form Elements, Minimal, Multiple elements, Date Time picker, 
+
+6) Tabels -  Simple Tabels, Bordered Tabels, Hover Tabels,  Table with Paginations
+
+7) Calendar - Calendar with dragabel events
+
+8) Mail box - Inbox, Sent, Drafts, Junk mail, Trash
+
+9) Examples - Invoice, Profile, Login, Register, Lockscreen, Error messages etc.

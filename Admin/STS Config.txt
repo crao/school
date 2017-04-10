@@ -1,0 +1,69 @@
+
+Required Software
+
+1) JDK 1.8 -  Install   ( Set JDK path in Enviornment Path )
+2) STS ( Spring Tool Software)
+3) Create Shortcut
+4) Create Directory for Work Space d:\workspace
+
+5) File -> New -> Spring Starter Project
+	- Name	==  website
+	- Group == com.my
+	- Artifact Project  == demo
+	- Package ( com.__)  == com.my
+	
+	Next
+	
+	From 
+		Core -> Devtool
+		Web -> web
+		Template engine -> thymeleaf
+		SQL ->  MySQL
+		
+	Next
+		Finish
+		
+6) 	Copy the Correct pom.xml file
+
+7) 	Run Configuration --> Build and Run Maven
+	( Play Button )
+	
+	Run Config  
+	Left Side -->	Maven Build --> 
+	
+	Name ==  New_configuration
+	Base Directory  == ${workspace_loc:/website}
+	Workspace -> Goal - clean.install
+	
+	Apply --> Run
+
+8)	Window --> Prefereances
+	
+	Select ->  JAVA (Left Panel)
+	
+	Install  JRE
+	
+	Add
+	
+	Standar VM ( Virtual Machine )
+	
+	Root directory from drive of JDK
+	
+	Select and Apply
+	
+
+9)	Run Config
+		
+	Under JRE Tab
+	
+	Select alternate JRE 
+	
+	Select JDK and apply  and Run
+	
+10) C:\Users\admin\.m2\repository  -->  Delete all  ( Re Run STS )
+
+11) Copy Main and Test Folder when new updation comes *****
+
+12) Copy pom.xml file  ( Refresh wait until progress bar comes to 100% )
+
+
